@@ -1,0 +1,25 @@
+{
+	"license": "MIT",
+	"author": "Sonny Lazuardi",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"framer": {
+		"displayName": "",
+		"id": "d776324a-848b-4515-a736-c480b0b7e9c2"
+	},
+	"main": "dist/index.js",
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"name": "",
+	"version": "1.0.0",
+	"dependencies": {
+		"@framer/benjamin.icon-generator": "^1.21.0",
+		"@framer/framer.default": "^1.71.0",
+		"@framer/hunterc.firebasedata": "^1.48.0",
+		"@framer/sonnylazuardi.timer-countdown-target-frame": "^1.0.0",
+		"@framer/tishogeorgiev.switch": "^1.18.0"
+	}
+}
